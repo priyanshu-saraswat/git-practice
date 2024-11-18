@@ -6,4 +6,7 @@ Line 4 from Remote Repository
 Line 5 from Local Repository
 =======
 Line 5 from Remote Repository
->>>>>>> 012f78037db8789b95f005df1ddaf2517d148187
+
+
+Hello Priyanshu,
+Nice Working with You
